@@ -1,2 +1,2 @@
 # Pricing-Table
-Learning FlexBox and implementing them to create a basic pricing table.
+Learning FlexBox and implementing its features to create a basic pricing table.
